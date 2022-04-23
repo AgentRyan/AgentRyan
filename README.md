@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AgentRyan
-- 👀 I’m interested in gfx design & web design.
+- 👀 I’m interested in gfx design, web design, 3d design, and photography.
 - 🌱 I’m currently working on [wallpaperengine.club](https://wallpaperengine.club)!
 - 📫 How to reach me:
-[discord](https://discord.gg/2zwdrdDsAk) • [twitter](https://twitter.com/agentxryan)
+[behance](https://www.behance.net/agentryan) • [twitter](https://twitter.com/agentxryan)
 
 <!---
 AgentRyan/AgentRyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
